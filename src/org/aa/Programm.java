@@ -10,6 +10,8 @@ public class Programm {
 		System.out.println(c);
 		
 		
+		System.out.println("Finished");
+		
 		
 		
 	}
